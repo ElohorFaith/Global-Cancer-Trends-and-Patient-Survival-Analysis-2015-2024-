@@ -23,7 +23,7 @@ One of the primary causes of death globally is still cancer. To fully understand
 # Key Findings
 1. The highest cancer prevalence was found in patients 65 years of age and older.
 2. Severity scores had a positive relationship with alcohol intake level.
-3. Severity scores had a positive relationship with alcohol intake level.
+3. Lung cancer had the highest average treatment cost among analyzed cancer types.
 4. There were major differences in smoking categories among cancer types.
 5. The distribution of patients by gender was relatively equal.
 6. The spread of cancer cases across several locations allowed for comparative geographical study.
